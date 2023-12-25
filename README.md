@@ -1,1 +1,2 @@
-Code implementation of HAPLRec
+# HAPLRec
+Code implementation of HAPLRec.
